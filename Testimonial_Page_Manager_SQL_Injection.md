@@ -12,7 +12,7 @@
 + https://portswigger.net/web-security/sql-injection
 
 ## Description:
-Testimonial Page Manager App 1.0, allows SQL Injection via the 'testimony' parameter in http://testimonial-page-manager/endpoint/delete-testimony.php?testimony=2. Exploiting this issue could allow an attacker to compromise the application, access or modify data, or exploit the latest vulnerabilities in the underlying database.
+Testimonial Page Manager App 1.0, allows SQL Injection via the 'testimony' parameter in /testimonial-page-manager/endpoint/delete-testimony.php?testimony=2. Exploiting this issue could allow an attacker to compromise the application, access or modify data, or exploit the latest vulnerabilities in the underlying database.
 
 ## Proof of Concept:
 + Go to this address: http://localhost/testimonial-page-manager
