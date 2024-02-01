@@ -12,7 +12,7 @@
 Simple School Managment System 1.0 allows Authentication Bypass via the `username` and `password` parameters at "http://localhost/School/". 
 
 ## Proof of Concept:
-+ Go to this address: "http://localhost/370project//alogin.html"
++ Go to this address: "http://localhost/School/index.php"
 + username : `'or 1=1-- -` password : `1`  and log in
 + Authentication Bypass Successful !
 
