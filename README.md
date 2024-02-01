@@ -14,4 +14,4 @@
 + Proof of Concept(PoC) : https://github.com/tubakvgc/CVEs/blob/main/Cinema%20Seat%20Reservation%20System/Cinema%20Seat%20Reservation%20System%20-%20SQL%20Injection.md
 
 # Simple School Management System - Vulnerabilities
-+ Proof of Concept(PoC) : https://github.com/tubakvgc/CVEs/blob/main/Simple%20School%20Management%20System/README.md
++ Proof of Concept(PoC) : https://github.com/tubakvgc/CVEs/tree/main/Simple%20School%20Management%20System
