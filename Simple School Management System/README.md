@@ -1,1 +1,1 @@
-# Simple School Management System - SQL Injection - 1
+# Simple School Management System - Vulnerabilities
