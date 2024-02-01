@@ -9,7 +9,7 @@
 + **CVE:** Reported, waiting for CVE number.
 
 ## Description:
-Simple School Managment System 1.0 allows SQL Injection via the 'apass' parameter at "School/index.php". 
+Simple School Managment System 1.0 allows SQL Injection via the 'id' parameter at "School/delete.php?id=5". 
 Exploiting this issue could allow an attacker to compromise the application, access or modify data, or exploit the latest vulnerabilities in the underlying database.
 
 ## Proof of Concept:
