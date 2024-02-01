@@ -1,7 +1,7 @@
 # Simple School Managment System - Authentication Bypass
 + **Exploit Title:** Simple School Managment System - Authentication Bypass
 + **Date:** 2024-30-01
-+ **Exploit Author:** Burak Sevben
++ **Exploit Author:** Tuba Kavgacı
 + **Vendor Homepage:** https://code-projects.org/simple-school-management-in-php-with-source-code/
 + **Software Link:** https://download.code-projects.org/details/d10e92aa-e37f-46fd-9bf8-45878956d7c0
 + **Version:** 1.0
