@@ -9,6 +9,10 @@
 + *CVE:* CVE-2024-24041
 
 ## References: 
++ https://www.cve.org/CVERecord?id=CVE-2024-24041
++ https://vuldb.com/fr/?id.252597
++ https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-24041
++ https://www.security-database.com/detail.php?alert=CVE-2024-24041
 + https://portswigger.net/web-security/cross-site-scripting
 
 ## Description:
