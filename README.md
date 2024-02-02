@@ -1,7 +1,7 @@
 # CVE-2024-22726: Wishlist App - Cross-Site-Scripting
 + Proof of Concept(PoC) : https://github.com/tubakvgc/CVEs/blob/main/CVE-2024-22726.md
 
-# Travel Journal App - Cross-Site-Scripting
+# CVE-2024-24041 - Travel Journal App - Cross Site Scripting
 + Proof of Concept(PoC) : https://github.com/tubakvgc/CVEs/blob/main/Travel_Journal_App.md
 
 # Event Student Attendance System - SQL Injection
