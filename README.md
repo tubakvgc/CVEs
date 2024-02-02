@@ -2,7 +2,7 @@
 + Proof of Concept(PoC) : https://github.com/tubakvgc/CVEs/blob/main/CVE-2024-22726.md
 
 # CVE-2024-24041 - Travel Journal App - Cross Site Scripting
-+ Proof of Concept(PoC) : https://github.com/tubakvgc/CVEs/blob/main/Travel_Journal_App.md
++ Proof of Concept(PoC) : https://github.com/tubakvgc/CVEs/blob/main/CVE-2024-24041.md
 
 # Event Student Attendance System - SQL Injection
 + Proof of Concept(Poc) : https://github.com/tubakvgc/CVEs/blob/main/Event_Student_Attendance_System.md
