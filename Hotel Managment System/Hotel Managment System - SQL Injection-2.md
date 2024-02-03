@@ -9,7 +9,7 @@
 + *CVE:* Reported, Waiting for CVE number
 
 ## Description:
-Hotel Managment System 1.0, allows SQL Injection via the 'sid' parameter in Hotel/admin/show.php?rid=2. Exploiting this issue could allow an attacker to compromise the application, access or modify data, or exploit the latest vulnerabilities in the underlying database.
+Hotel Managment System 1.0, allows SQL Injection via the 'sid' parameter in Hotel/admin/show.php?sid=2. Exploiting this issue could allow an attacker to compromise the application, access or modify data, or exploit the latest vulnerabilities in the underlying database.
 
 ## Proof of Concept:
 + Go to this address: http://localhost/Hotel/admin/home.php
