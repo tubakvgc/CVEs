@@ -16,7 +16,7 @@ An attacker could exploit this issue to run arbitrary scripting code in the brow
 
 ## Proof of Concept:
 + Go to http://localhost/Hotel/admin/reservation.php
-+ Write this code in the Firstname : "><img src=x onerror=alert(document.domain)>
++ Write this code in the Firstname : `"><img src=x onerror=alert(document.domain)>`
 + Then click 'Submit' button.
 + Go to http://localhost/Hotel/admin/home.php
 + XSS will be triggered
