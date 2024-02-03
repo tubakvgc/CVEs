@@ -15,7 +15,7 @@
 Event Student Attendance System 1.0, allows SQL Injection via the 'student' parameter in `http://localhost/event-student-attendance/endpoint/delete-student.php?student=3`. Exploiting this issue could allow an attacker to compromise the application, access or modify data, or exploit the latest vulnerabilities in the underlying database.
 
 ## Proof of Concept:
-+ Go to this address: "/event-student-attendance/endpoint/delete-student.php?student=3"
++ Go to this address: "http://localhost/event-student-attendance"
 + Select any student and press the delete-student button
 + Capture the request via Burp Suite and send it to the Repeater.
 + Copy the request and paste it into an "r.txt" file.
