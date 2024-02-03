@@ -11,7 +11,7 @@
 + Proof of Concept(PoC) : https://github.com/tubakvgc/CVEs/blob/main/Student%20File%20Management%20System/CVE-2024-24040%3A%20SFMS%20-%20Cross-Site-Scripting%20-%202.md
 
 # CVE-2024-24041 - Travel Journal App - Cross Site Scripting
-+ Proof of Concept(PoC) : https://github.com/tubakvgc/CVEs/blob/main/CVE-2024-24041.md
++ Proof of Concept(PoC) : https://github.com/tubakvgc/CVEs/blob/main/Travel_Journal_App.md
 
 # Event Student Attendance System - SQL Injection
 + Proof of Concept(Poc) : https://github.com/tubakvgc/CVEs/blob/main/Event_Student_Attendance_System.md
