@@ -24,3 +24,7 @@
 
 # Simple School Management System - Vulnerabilities [CVE-2024-25304 - CVE-2024-25305 - CVE-2024-25306 - CVE-2024-25308 - CVE-2024-25309 - CVE-2024-25310 - CVE-2024-25312 - CVE-2024-25313]
 + Proof of Concept(PoC) : https://github.com/tubakvgc/CVEs/tree/main/Simple%20School%20Management%20System
+
+# Hotel Managment System  - Vulnarabilities [CVE-2024-25317 - CVE-2024-25315 - CVE-2024-25314 - CVE-2024-25318 CVE-2024-25316]
++ Proof of Concept(PoC) : https://github.com/tubakvgc/CVEs/tree/main/Hotel%20Managment%20System
+  
