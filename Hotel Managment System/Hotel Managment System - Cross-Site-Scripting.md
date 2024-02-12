@@ -1,4 +1,4 @@
-# Hotel Manangment System - Cross Site Scripting
+# CVE-2024-25317 - Hotel Manangment System - Cross Site Scripting
 + *Exploit Title:* Hotel Manangment System - Cross Site Scripting
 + *Date:* 2024-20-01
 + *Exploit Author:* Tuba Kavgacı
@@ -6,7 +6,7 @@
 + *Software Link:* https://www.sourcecodester.com/download-code?nid=17115&title=Travel+Journal+Using+PHP+and+MySQL+with+Source+Code
 + *Version:* 1.0
 + *Tested on:* Kali Linux + PHP 8.2.12, Apache 2.4.58
-+ *CVE:* Repoerted, waiting for CVE number
++ *CVE:* CVE-2024-25317
 
 
 ## Description:
