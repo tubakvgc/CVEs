@@ -1,4 +1,4 @@
-# Hotel Managment System - SQL Injection-2
+# CVE-2024-25314 - Hotel Managment System - SQL Injection-2
 + *Exploit Title:* Hotel Managment System - SQL Injection-2
 + *Date:* 2024-02-01
 + *Exploit Author:* Tuba Kavgacı
@@ -6,7 +6,7 @@
 + *Software Link:* https://download.code-projects.org/details/cd8fc4cb-c6b6-48f7-9cc3-27044a0a26a3
 + *Version:* 1.0
 + *Tested on:* Kali Linux + PHP 8.2.12, Apache 2.4.58
-+ *CVE:* Reported, Waiting for CVE number
++ *CVE:* CVE-2024-25314
 
 ## Description:
 Hotel Managment System 1.0, allows SQL Injection via the 'sid' parameter in Hotel/admin/show.php?sid=2. Exploiting this issue could allow an attacker to compromise the application, access or modify data, or exploit the latest vulnerabilities in the underlying database.
