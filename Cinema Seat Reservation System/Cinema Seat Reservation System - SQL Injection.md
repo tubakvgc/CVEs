@@ -1,4 +1,4 @@
-# Cinema Seat Reservation System - SQL Injection
+# CVE-2024-25307 - Cinema Seat Reservation System - SQL Injection
 + **Exploit Title:** Cinema Seat Reservation System - SQL Injection
 + **Date:** 2024-01-02
 + **Exploit Author:** Tuba Kavgacı
@@ -6,7 +6,7 @@
 + **Software Link:** https://download.code-projects.org/details/1d68ab6b-6fd7-4c5f-a125-268d8ecbce07
 + **Version:** 1.0
 + **Tested on:** Kali Linux + PHP 8.2.12, Apache 2.4.58
-+ **CVE:** Reported, waiting for CVE number.
++ **CVE:** CVE-2024-25307
 
 ## Description:
 Cinema Seat Reservation System 1.0 allows SQL Injection via the 'id' parameter at "/Cinema-Reservation/booking.php?id=1". 
