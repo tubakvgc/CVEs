@@ -1,4 +1,4 @@
-# Simple School Managment System - Authentication Bypass
+# CVE-2024-25305 - Simple School Managment System - Authentication Bypass
 + **Exploit Title:** Simple School Managment System - Authentication Bypass
 + **Date:** 2024-30-01
 + **Exploit Author:** Tuba Kavgacı
@@ -6,7 +6,7 @@
 + **Software Link:** https://download.code-projects.org/details/d10e92aa-e37f-46fd-9bf8-45878956d7c0
 + **Version:** 1.0
 + **Tested on:** Kali Linux + PHP 8.2.12, Apache 2.4.58
-+ **CVE:** Reported, waiting for CVE number.
++ **CVE:** CVE-2024-25305
 
 ## Description:
 Simple School Managment System 1.0 allows Authentication Bypass via the `username` and `password` parameters at "http://localhost/School/". 
