@@ -1,4 +1,4 @@
-# Hotel Managment System - SQL Injection-1
+# CVE-2024-25315 - Hotel Managment System - SQL Injection-1
 + *Exploit Title:* Hotel Managment System - SQL Injection-1
 + *Date:* 2024-02-01
 + *Exploit Author:* Tuba Kavgacı
@@ -6,7 +6,7 @@
 + *Software Link:* https://download.code-projects.org/details/cd8fc4cb-c6b6-48f7-9cc3-27044a0a26a3
 + *Version:* 1.0
 + *Tested on:* Kali Linux + PHP 8.2.12, Apache 2.4.58
-+ *CVE:* Reported, Waiting for CVE number
++ *CVE:* CVE-2024-25315
 
 
 ## Description:
