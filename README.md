@@ -19,8 +19,8 @@
 # Testimonial Page Manager - SQL Injection
 + Proof of Concept(PoC) : https://github.com/tubakvgc/CVEs/blob/main/Testimonial_Page_Manager_SQL_Injection.md
 
-# Cinema Seat Reservation System - SQL Injection
+# CVE-2024-25305 - Cinema Seat Reservation System - SQL Injection
 + Proof of Concept(PoC) : https://github.com/tubakvgc/CVEs/blob/main/Cinema%20Seat%20Reservation%20System/Cinema%20Seat%20Reservation%20System%20-%20SQL%20Injection.md
 
-# Simple School Management System - Vulnerabilities
+# Simple School Management System - Vulnerabilities [CVE-2024-25304 - CVE-2024-25305 - CVE-2024-25306 - CVE-2024-25308 - CVE-2024-25309 - CVE-2024-25310 - CVE-2024-25312 - CVE-2024-25313]
 + Proof of Concept(PoC) : https://github.com/tubakvgc/CVEs/tree/main/Simple%20School%20Management%20System
