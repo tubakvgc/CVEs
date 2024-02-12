@@ -1,4 +1,4 @@
-# Simple School Managment System - SQL Injection - 7 (Teacher Login)
+# CVE-2024-25309 - Simple School Managment System - SQL Injection - 7 (Teacher Login)
 + **Exploit Title:** Simple School Managment System - SQL Injection - 7 (Teacher Login)
 + **Date:** 2024-01-02
 + **Exploit Author:** Tuba Kavgacı
@@ -6,7 +6,7 @@
 + **Software Link:** https://download.code-projects.org/details/d10e92aa-e37f-46fd-9bf8-45878956d7c0
 + **Version:** 1.0
 + **Tested on:** Kali Linux + PHP 8.2.12, Apache 2.4.58
-+ **CVE:** Reported, waiting for CVE number.
++ **CVE:** CVE-2024-25309
 
 ## Description:
 Simple School Managment System 1.0 allows SQL Injection via the 'pass' parameter at "http://localhost/School/teacher_login.php". 
