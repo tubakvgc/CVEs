@@ -13,7 +13,7 @@
 # CVE-2024-24041 - Travel Journal App - Cross Site Scripting
 + Proof of Concept(PoC) : https://github.com/tubakvgc/CVEs/blob/main/Travel_Journal_App.md
 
-# Event Student Attendance System - SQL Injection
+# CVE-2024-25302 - Event Student Attendance System - SQL Injection
 + Proof of Concept(Poc) : https://github.com/tubakvgc/CVEs/blob/main/Event_Student_Attendance_System.md
 
 # Testimonial Page Manager - SQL Injection
