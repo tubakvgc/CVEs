@@ -1,4 +1,4 @@
-# Event Student Attendance System - SQL Injection
+# CVE-2024-25302 - Event Student Attendance System - SQL Injection
 + *Exploit Title:* Event Student Attendance System - SQL Injection
 + *Date:* 2024-30-01
 + *Exploit Author:* Tuba Kavgacı
@@ -6,9 +6,12 @@
 + *Software Link:* https://www.sourcecodester.com/download-code?nid=17139&title=Event+Student+Attendance+System+Using+PHP+and+MySQL+with+Source+Code
 + *Version:* 1.0
 + *Tested on:* Windows 11 Home + PHP 8.2.12, Apache 2.4.58
-+ *CVE:* Reported, Waiting for CVE number
++ *CVE:* CVE-2024-25302
 
 ## References: 
++ https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-25302
++ https://nvd.nist.gov/vuln/detail/CVE-2024-25302
++ https://vuldb.com/?id.253307
 + https://portswigger.net/web-security/sql-injection
 
 ## Description:
